@@ -1,4 +1,4 @@
 # moonsoon
 Fantasy Map Generation experiment on Python
-![example.png](example.png)
+![example1.png](example1.png)
 ![ani.gif](ani.gif)
