@@ -3,6 +3,5 @@ numpy
 matplotlib
 scipy
 tqdm
-mpl_toolkits
 skimage
 numba
