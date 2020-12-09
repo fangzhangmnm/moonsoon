@@ -3,5 +3,5 @@ numpy
 matplotlib
 scipy
 tqdm
-skimage
+scikit-image
 numba
