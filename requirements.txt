@@ -1,1 +1,8 @@
-noise==1.2.2
+noise
+numpy
+matplotlib
+scipy
+tqdm
+mpl_toolkits
+skimage
+numba
